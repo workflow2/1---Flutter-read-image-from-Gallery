@@ -1,16 +1,11 @@
-# loadimages
+# Learning Everyday Series Ep. 1
 
-A new Flutter project.
+This is part of the Learning Everyday Youtube Series
 
-## Getting Started
+You can find it here: https://www.youtube.com/watch?v=6uic78rwoh8
 
-This project is a starting point for a Flutter application.
+[![Flutter upload images from gallery | Learning Everyday Series Ep. 1](https://img.youtube.com/vi/6uic78rwoh8/0.jpg)](https://www.youtube.com/watch?v=6uic78rwoh8)
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter upload images from gallery 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this project we'll see in the most easy way possible how pick an image from the image picker, if you prefer to follow along with the written tutorial instead of the video tutorial you can follow along in this website: https://priiimo.com/en/computer-science/tutorials/flutter-how-to-upload-image-from-gallery-with-flutter/5f491bc2e81f0063f61885d1
